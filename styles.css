@@ -1,0 +1,23 @@
+* {
+    border: solid 1px red;
+}
+
+body {
+    height: 100%;
+}
+nav {
+    display: flex;
+    /* position: fixed; */
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#container {
+    height: auto;
+}
